@@ -130,13 +130,12 @@ GPT-4, Gemini, Claude, Grok, LLaMA ve Qwen gibi büyük dil modellerinin system 
 
 <div align="center">
 
-<a href="https://github.com/alpersamur3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alpersamur3&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alpersamur3&hide_border=true" />
-    <img width="55%" alt="Alper Samur GitHub Streak İstatistikleri" src="https://github-readme-streak-stats.herokuapp.com/?user=alpersamur3&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-  </picture>
-</a>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alpersamur3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&locale=tr" alt="Alper Samur GitHub İstatistikleri" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpersamur3&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Alper Samur GitHub Streak" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alpersamur3&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&locale=tr" alt="Alper Samur En Çok Kullanılan Diller" />
 
 </div>
 
@@ -261,6 +260,21 @@ A research archive of system prompts from major LLMs including GPT-4, Gemini, Cl
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+</div>
+
+---
+
+### 📊 Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alpersamur3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="Alper Samur GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpersamur3&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Alper Samur GitHub Streak" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alpersamur3&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Alper Samur Top Languages" />
 
 </div>
 
