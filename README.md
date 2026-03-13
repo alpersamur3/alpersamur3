@@ -3,9 +3,9 @@
 <!-- SEO & Discoverability -->
 <!--
   Alper Samur | Full Stack Developer | Turkey
-  Skills: Python, JavaScript, TypeScript, React, Node.js, PyQt5, GTK, Flask, Express, PostgreSQL, AI
-  Projects: Desktop Apps, Web Apps, Mobile Apps, AI Tools, Browser, Teleprompter, EdTech
-  Keywords: software developer, full stack, open source, python developer, react developer, desktop application developer, turkish developer
+  Skills: Python, JavaScript, TypeScript, React, Node.js, PyQt5, GTK, Flask, Express, PostgreSQL, SQL, AI
+  Projects: Desktop Apps, Web Apps, Mobile Apps, AI Tools, Browser, Teleprompter, EdTech, Database Tools
+  Keywords: software developer, full stack, open source, python developer, react developer, desktop application developer, turkish developer, sql database, turkey locations
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alper%20Samur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=18&descAlignY=52&descColor=C9D1D9" width="100%" alt="Alper Samur - Full Stack Developer" />
@@ -36,12 +36,22 @@ Masaüstü uygulamalardan web platformlarına, yapay zeka araçlarından eğitim
 <tr>
 <td width="50%" valign="top">
 
+### 🗺️ [Turkey Locations SQL](https://github.com/alpersamur3/turkey-locations-sql)
+Türkiye'nin tüm il, ilçe ve mahalle verilerini resmi e-İçişleri Excel dosyalarından okuyarak SQL'e dönüştüren masaüstü GUI uygulaması. 81 il, 973 ilçe ve 32.296 mahalle verisi; MSSQL, PostgreSQL, MySQL ve SQLite için hazır SQL scripti üretir. Hazır 2026 MSSQL scripti dahildir.
+
+`Python` `Tkinter` `SQL` `MSSQL` `PostgreSQL` `MySQL` `SQLite` `Excel`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔐 [ASKilit](https://github.com/alpersamur3/askilit)
 Etkileşimli eğitim tahtaları için geliştirilmiş ekran kilidi uygulaması. EBA QR ile öğretmen doğrulaması, otomatik kilit zamanlayıcı, dokunmatik algılama ve i18n desteği içerir. `.deb` paket desteğiyle Pardus/Debian tabanlı sistemlere kolayca kurulur.
 
 `Python` `GTK` `QR Code` `Meson` `Debian Packaging` `i18n`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌐 [Modern Browser](https://github.com/alpersamur3/Modern-Browser)
@@ -50,8 +60,6 @@ Sıfırdan geliştirilen tam özellikli masaüstü web tarayıcısı. Sekmeli ta
 `Python` `PyQt5` `QWebEngine` `Cryptography` `gettext`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎙️ [VoiceFlow Teleprompter](https://github.com/alpersamur3/VoiceFlow-Teleprompter)
@@ -60,6 +68,8 @@ Konuşmacının sesini gerçek zamanlı takip eden akıllı telepromter. Vosk il
 `Python` `Tkinter` `Vosk` `Speech Recognition` `Fuzzy Matching`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📂 [Similar Name Detection Tool](https://github.com/alpersamur3/Similar-Name-Detection-Tool)
@@ -68,9 +78,7 @@ Dosya ve klasörleri isim benzerliğine göre akıllıca gruplayan masaüstü ar
 `Python` `Tkinter` `Jellyfish` `Levenshtein` `Cross-platform`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2" align="center">
+<td width="50%" valign="top">
 
 ### 🧠 [AI System Prompts](https://github.com/alpersamur3/ai-system-prompts)
 GPT-4, Gemini, Claude, Grok, LLaMA ve Qwen gibi büyük dil modellerinin system prompt'larının kanıtlarıyla birlikte arşivlendiği araştırma projesi. Her giriş chat URL'si veya ekran görüntüsü ile doğrulanmıştır.
@@ -111,6 +119,9 @@ GPT-4, Gemini, Claude, Grok, LLaMA ve Qwen gibi büyük dil modellerinin system 
 
 **Veritabanı** &nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **AI** &nbsp;&nbsp;
@@ -175,12 +186,22 @@ I develop comprehensive software solutions ranging from desktop applications to 
 <tr>
 <td width="50%" valign="top">
 
+#### 🗺️ [Turkey Locations SQL](https://github.com/alpersamur3/turkey-locations-sql)
+A desktop GUI application that converts Turkey's official province, district & neighborhood data from e-İçişleri Excel files into SQL. Covers all 81 provinces, 973 districts and 32,296 neighborhoods for MSSQL, PostgreSQL, MySQL and SQLite. Includes a ready-to-use 2026 MSSQL script.
+
+`Python` `Tkinter` `SQL` `MSSQL` `PostgreSQL` `MySQL` `SQLite` `Excel`
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔐 [ASKilit](https://github.com/alpersamur3/askilit)
 A screen lock application for interactive educational boards. Features EBA QR teacher authentication, auto-lock timer, touch detection, and i18n support. Easily deployable on Pardus/Debian-based systems via `.deb` packages.
 
 `Python` `GTK` `QR Code` `Meson` `Debian Packaging` `i18n`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🌐 [Modern Browser](https://github.com/alpersamur3/Modern-Browser)
@@ -189,8 +210,6 @@ A fully-featured desktop web browser built from scratch. Includes tabbed browsin
 `Python` `PyQt5` `QWebEngine` `Cryptography` `gettext`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🎙️ [VoiceFlow Teleprompter](https://github.com/alpersamur3/VoiceFlow-Teleprompter)
@@ -199,6 +218,8 @@ A smart teleprompter that tracks the speaker's voice in real time. Features full
 `Python` `Tkinter` `Vosk` `Speech Recognition` `Fuzzy Matching`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 📂 [Similar Name Detection Tool](https://github.com/alpersamur3/Similar-Name-Detection-Tool)
@@ -207,9 +228,7 @@ A desktop tool that intelligently groups files and folders by name similarity. U
 `Python` `Tkinter` `Jellyfish` `Levenshtein` `Cross-platform`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2" align="center">
+<td width="50%" valign="top">
 
 #### 🧠 [AI System Prompts](https://github.com/alpersamur3/ai-system-prompts)
 A research archive of system prompts from major LLMs including GPT-4, Gemini, Claude, Grok, LLaMA, and Qwen. Every entry is verified with chat URLs or screenshots. Pull requests are carefully reviewed.
@@ -250,6 +269,9 @@ A research archive of system prompts from major LLMs including GPT-4, Gemini, Cl
 
 **Database** &nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **AI** &nbsp;&nbsp;
